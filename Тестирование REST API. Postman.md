@@ -1,5 +1,5 @@
 # Данный документ создан для демонстрации практической части курса **“Тестирование REST API. Postman”** от **“Ключ седого тестировщика”**, в котором были изучены API, RestAPI, json, http, https.
-# Практическая работа выполнялась в программе **“POSTMAN”**, так же были использованы DevTools в web-приложении и XMind
+# Практическая работа выполнялась в программе **“POSTMAN”**, так же были использованы DevTools в web-приложении и XMind.
 ___
  - Предлагаю Вам ознакомиться с примерами моего составления:
      - 1 Окружение POSTMAN - [Local.postman_environment](https://github.com/likrid/Portfolio-API/files/8969087/Local.postman_environment.txt)
@@ -17,4 +17,3 @@ ___
 
 
 ![nikolaj-mitrofanov (1)](https://user-images.githubusercontent.com/107875446/175544702-b9b32b38-3391-4a23-a685-ba282689fb92.png)
-
